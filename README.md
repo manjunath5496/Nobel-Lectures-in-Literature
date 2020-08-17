@@ -15,9 +15,9 @@
 [Nobel Lecture]</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Literature/blob/master/lit(7).pdf" style="text-decoration:none;">Harold Pinter: Art, Truth and Politics [Nobel Lecture] </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Literature/blob/master/lit(8).pdf" style="text-decoration:none;"> Effect of sodium flouride and magnesium chloride and its interaction on seedling growth of Medicago Sativa, Anand, Gujarat </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Literature/blob/master/lit(9).pdf" style="text-decoration:none;">Euro Nephrology 2019: Pathophysiology of proteinuria in the early period of Alloxan-induced experimental diabetes- Olenovych Olha- Bukovinian State Medical University</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Literature/blob/master/lit(8).pdf" style="text-decoration:none;"> Nobel Lecture for Tomas Tranströmer </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Literature/blob/master/lit(9).pdf" style="text-decoration:none;">Mario Vargas Llosa: In praise of reading and fiction [Nobel Lecture] </a></li>
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Literature/blob/master/lit(10).pdf" style="text-decoration:none;">Gastro Congress 2019: Pathophysiology and management of "Esophageal Varices" in current practice - Balwant Singh Gill- Dr MGR Medical University</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Literature/blob/master/lit(10).pdf" style="text-decoration:none;">Mo Yan: Storytellers [Nobel Lecture]</a></li>
 
 </ul>
